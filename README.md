@@ -1,4 +1,4 @@
-# ReasonLabs EPP/EDR Removal Workaround
+# ReasonLabs EPP/EDR/VPN Removal Workaround (2026)
 
 This repository contains a PowerShell-based workaround for removing ReasonLabs EPP/EDR services when the normal uninstall process is unavailable, incomplete, or unsuccessful.
 
