@@ -415,6 +415,10 @@ This script is an unofficial community workaround and is not affiliated with, en
 
 Use it at your own risk.
 
+<p align="center">
+  <img src="peluk-banner.png" alt="Peluk banner" width="100%">
+</p>
+
 
 
 The author is not responsible for data loss, system instability, service disruption, security-control conflicts, or any other consequence resulting from the use of this script.
